@@ -1,0 +1,124 @@
+{
+    "systems": [
+      {
+        "id": 1,
+        "name": "Alpha Centauri",
+        "description": "Alpha Centauri is the closest star system and closest planetary system to Earth's Solar System at 4.37 light-years from the Sun.",
+        "image": "alpha_centauri.png",
+        "planets": [
+          {
+            "id": 101,
+            "name": "Proxima Centauri b",
+            "description": "Proxima Centauri b is an exoplanet orbiting in the habitable zone of the red dwarf star Proxima Centauri.",
+            "image": "proxima_centauri_b.png",
+            "distance": 0.05,
+            "measuring_unit": "astronomical units"
+          },
+          {
+            "id": 102,
+            "name": "Proxima Centauri c",
+            "description": "Proxima Centauri c is a confirmed exoplanet, orbiting the red dwarf star Proxima Centauri.",
+            "image": "proxima_centauri_c.png",
+            "distance": 1.5,
+            "measuring_unit": "astronomical units"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "TRAPPIST-1",
+        "description": "TRAPPIST-1 is an ultra-cool red dwarf star that is slightly larger but much more massive than the planet Jupiter, located 39.6 light-years from the Sun.",
+        "image": "trappist_1.png",
+        "planets": [
+          {
+            "id": 201,
+            "name": "TRAPPIST-1 b",
+            "description": "TRAPPIST-1 b is the innermost planet and is likely to have a rocky composition.",
+            "image": "trappist_1_b.png",
+            "distance": 0.011,
+            "measuring_unit": "astronomical units"
+          },
+          {
+            "id": 202,
+            "name": "TRAPPIST-1 c",
+            "description": "TRAPPIST-1 c is the second innermost planet and is composed primarily of rock and iron.",
+            "image": "trappist_1_c.png",
+            "distance": 0.015,
+            "measuring_unit": "astronomical units"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "The solar system",
+        "description": "The solar system is a massive planetary system, with nine planets orbiting our star - the Sun. It also includes dwarf planets, asteroids, comets, and much more.",
+        "image": "the_solar_system.png",
+        "planets": [
+          {
+            "id": 301,
+            "name": "Mercury",
+            "description": "The smallest planet in the solar system and the closest to the Sun.",
+            "image": "mercury.png",
+            "distance": 77,
+            "measuring_unit": "million kilometers"
+          },
+          {
+            "id": 302,
+            "name": "Venus",
+            "description": "A terrestrial planet and is sometimes referred to as the Earth's sister planet due to their similar size, mass, proximity to the Sun and bulk composition.",
+            "image": "venus.png",
+            "distance": 261,
+            "measuring_unit": "million kilometers"
+          },
+          {
+            "id": 303,
+            "name": "Earth",
+            "description": "The only planet known to support life and is the third planet from the Sun.",
+            "image": "earth.png",
+            "distance": 149.6,
+            "measuring_unit": "million kilometers"
+          },
+          {
+            "id": 304,
+            "name": "Mars",
+            "description": "A terrestrial planet and is often called the 'Red Planet' due to its reddish appearance.",
+            "image": "mars.png",
+            "distance": 54.6,
+            "measuring_unit": "million kilometers"
+          },
+          {
+            "id": 305,
+            "name": "Jupiter",
+            "description": "The largest planet in the Solar System and it is primarily composed of hydrogen with a quarter of its mass being helium.",
+            "image": "jupiter.png",
+            "distance": 588,
+            "measuring_unit": "million kilometers"
+          },
+          {
+            "id": 306,
+            "name": "Saturn",
+            "description": "The second-largest planet in the Solar System and is known for its extensive ring system.",
+            "image": "saturn.png",
+            "distance": 1200,
+            "measuring_unit": "million kilometers"
+          },
+          {
+            "id": 307,
+            "name": "Uranus",
+            "description": "The seventh planet from the Sun and is an ice giant.",
+            "image": "uranus.png",
+            "distance": 2600,
+            "measuring_unit": "million kilometers"
+          },
+          {
+            "id": 308,
+            "name": "Neptune",
+            "description": "The eighth planet from the Sun and is the most distant known planet in the Solar System.",
+            "image": "neptune.png",
+            "distance": 4500,
+            "measuring_unit": "million kilometers"
+          }
+        ]
+      }
+    ]
+  }
